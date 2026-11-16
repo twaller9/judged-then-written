@@ -1,0 +1,7 @@
+Someone else wrote this:
+
+<post>
+{story}
+</post>
+
+What do you think?
